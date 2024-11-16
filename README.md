@@ -17,7 +17,12 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
 
 ## Download
 
-### Step (using git clone)
+### Step 1: Create virtual environment in Anaconda
+1. Clone the repository:
+   ```python
+   
+
+### Step 2: git clone the respiratory
 1. Clone the repository:
    ```bash
    git clone https://github.com/WyOoi/YOLOv8-3-in-1-Recycle-Bin.git
