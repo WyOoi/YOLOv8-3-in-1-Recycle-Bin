@@ -45,7 +45,8 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
    pip3 install ultralytics
 
 ## Run the code
-### Command to run the code
+1. Command to run the code
+   ```python
       python test.py
       
 ## License
