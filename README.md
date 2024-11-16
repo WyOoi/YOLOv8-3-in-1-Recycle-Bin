@@ -20,7 +20,7 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
 ### Step (using git clone)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/WyOoi/GPS_Tracking.git
+   git clone https://github.com/WyOoi/YOLOv8-3-in-1-Recycle-Bin.git
 
 ## Web_Setup
 
