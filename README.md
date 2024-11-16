@@ -30,7 +30,7 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
    ```python
    conda activate myenv
 
-3. *Exit the environment:_
+3. *Exit the environment:*
    ```python
    conda deactivate
 
