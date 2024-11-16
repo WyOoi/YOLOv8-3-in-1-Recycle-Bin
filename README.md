@@ -46,7 +46,6 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
 
 ## Run the code
 ### Command to run the code
-      ```python
       python test.py
       
 ## License
