@@ -15,9 +15,13 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
 7. [Acknowledgments](#acknowledgments)
 8. [Website Address](#Website_address)
 
-## Download
+## Download & Installation
 
-### Step 1: Create virtual environment in Anaconda
+### Step 1: Install the software used
+1. Anaconda Prompt (miniconda)
+2. Lego Mindstorm EV3 Programming software (EV3-G)
+
+### Step 2: Create virtual environment in Anaconda
 1. command create new environment:
    ```python
    conda create --name myenv python=3.9
@@ -26,7 +30,7 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
    ```python
    conda activate myenv
 
-### Step 2: git clone the respiratory
+### Step 3: git clone the respiratory
 1. Clone the repository:
    ```bash
    git clone https://github.com/WyOoi/YOLOv8-3-in-1-Recycle-Bin.git
