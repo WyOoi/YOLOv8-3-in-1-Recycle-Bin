@@ -19,7 +19,7 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
 
 ### Step 1: Install the software used
 1. Anaconda Prompt (miniconda)[Link text](https://www.anaconda.com/download)
-2. Lego Mindstorm EV3 Programming software (EV3-G)
+2. Lego Mindstorm EV3 Programming software (EV3-G).[Link text](https://education.lego.com/en-us/downloads/retiredproducts/mindstorms-ev3-lab/software/).
 
 ### Step 2: Create virtual environment in Anaconda
 1. command create new environment:
