@@ -2,7 +2,7 @@
 This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped with Rapsberry pi Camera to run the recyclable waste detection using YOLOv8. The project successfully won the Silver Award in the National Robotics Competition State Level Future Innovator Category.
 
 <div align="center">
-   <img src="PNG/web.png" alt="map">
+   <img src="pic/Png1.png" alt="png">
 </div>
 
 ## Table of Contents
