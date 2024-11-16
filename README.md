@@ -7,7 +7,7 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
 
 ## Table of Contents
 1. [Sofware Used](#Software_Used)
-2. [Web Setup](#Web_Setup)
+2. [Install Ultralytics](#Install_Ultralytics)
 3. [Features](#features)
 4. [Documentation](#documentation)
 5. [Contributing](#contributing)
@@ -34,11 +34,21 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
    ```python
    conda deactivate
 
-### Step 3: git clone the respiratory
+### Step 3: Download this github respiratoty to your laptop or using the step below
 1. Clone the repository:
    ```bash
    git clone https://github.com/WyOoi/YOLOv8-3-in-1-Recycle-Bin.git
+   
+### Install Library
+1. Install library for ultralytics
+   ```python
+   pip3 install ultralytics
 
+## Run the code
+### Command to run the code
+      ```python
+      python test.py
+      
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
