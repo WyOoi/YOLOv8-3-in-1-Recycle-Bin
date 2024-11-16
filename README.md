@@ -1,5 +1,5 @@
 # YOLOv8-3-in-1-Recycle-Bin
-This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped with Rapsberry pi Camera to run the recyclable waste detection using YOLOv8. The project successfully won the Silver Award in the National Robotics Competition State Level Future Innovator Category.
+This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped with Rapsberry pi Camera to run the recyclable waste detection using YOLOv8. The project successfully won the Silver Award in the National Robotics Competition State Level Future Innovator Category. This project mainly focus on sorting the recyclable waste to the bin using the image proccessing with raspberry pi camera using YOLOv8
 
 <div align="center">
    <img src="pic/Png1.png" alt="png">
@@ -18,7 +18,7 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
 ## Download & Installation
 
 ### Step 1: Install the software used
-1. Anaconda Prompt (miniconda)
+1. Anaconda Prompt (miniconda)[Link text](https://www.anaconda.com/download)
 2. Lego Mindstorm EV3 Programming software (EV3-G)
 
 ### Step 2: Create virtual environment in Anaconda
