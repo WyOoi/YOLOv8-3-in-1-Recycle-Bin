@@ -20,7 +20,11 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
 ### Step 1: Create virtual environment in Anaconda
 1. command create new environment:
    ```python
-   
+   conda create --name myenv python=3.9
+
+2. Enter the environment:
+   ```python
+   conda activate myenv
 
 ### Step 2: git clone the respiratory
 1. Clone the repository:
