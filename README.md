@@ -31,12 +31,6 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
    ```bash
    git clone https://github.com/WyOoi/YOLOv8-3-in-1-Recycle-Bin.git
 
-## Web_Setup
-
-### Step 1: Create SubDomain
-1. Account registration for AwardSpace free web hosting:
-[Link text](https://www.awardspace.com/)
-
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
