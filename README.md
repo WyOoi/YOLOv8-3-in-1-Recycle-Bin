@@ -18,7 +18,7 @@ This project using Lego Mindstorm EV3 communicate with Raspberry Pi equipped wit
 ## Download
 
 ### Step 1: Create virtual environment in Anaconda
-1. Clone the repository:
+1. command create new environment:
    ```python
    
 
